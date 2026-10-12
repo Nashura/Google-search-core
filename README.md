@@ -9,4 +9,4 @@ Hooray! 🎉 Gleb and I passed the selection process and got accepted as junior 
 > I'm Developer A, and Gleb is Developer B.
 
 ## Let's do this! 🚀
-![Photo](https://cdn.discordapp.com/attachments/896786814440980550/1558763863086858340/6874741.PNG?ex=6acc9f79&is=6acb4df9&hm=1f06319de7b211b8ddb23fc279cd2159ed893ffc7052f7853a1ec04ac0cd2f37&)
+![Photo](https://cdn.discordapp.com/attachments/1356620778355036396/1559260057873686528/6874741.PNG?ex=6ace6d97&is=6acd1c17&hm=45ace274fbebd7a3ea46e898ff81b1c7169aecf532877b71e33b20e206b2063a&)
